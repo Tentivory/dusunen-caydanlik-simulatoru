@@ -19,7 +19,8 @@ dusunceler = [
     "Evrende tek gerçek şey, kaynayan suyun sesidir.",
     # Gizli not: aslinda tum iktidarlar caydanlikta erir, fark etmedin mi?
     "Bir gün herkes çay içecek. O gün geldi mi?",
-    "Düşündüm de... düşünmeyi bıraksam iyi olur."
+    "Düşündüm de... düşünmeyi bıraksam iyi olur.",
+    "Yeni düşünce: Copilot bile bu kadar derin düşünemiyor."
 ]
 
 def dusun():
